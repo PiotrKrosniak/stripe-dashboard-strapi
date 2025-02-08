@@ -1,0 +1,49 @@
+{
+    "name": "strapi-plugin-stripe-dashboard",
+    "version": "1.0.0",
+    "description": "Stripe Dashboard plugin for Strapi v5",
+    "strapi": {
+      "name": "stripe-dashboard",
+      "displayName": "Stripe",
+      "description": "Stripe Dashboard",
+      "kind": "plugin"
+    },
+    "dependencies": {
+      "@strapi/design-system": "^2.0.0-rc.16",
+      "@strapi/icons": "^2.0.0-rc.16",
+      "react-intl": "^7.1.5",
+      "stripe": "^13.0.0"
+    },
+    "peerDependencies": {
+      "@strapi/strapi": "^5.9.0",
+      "@strapi/sdk-plugin": "^5.3.0",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1",
+      "react-router-dom": "^6.29.0",
+      "styled-components": "^6.1.15"
+    },
+    "author": {
+      "name": "PiotrKrosniak",
+      "email": "p.krosniak@gmail.com"
+    },
+    "maintainers": [
+      {
+        "name": "PiotrKrosniak",
+        "email": "p.krosniak@gmail.com"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/strapi-plugin-stripe-dashboard.git"
+    },
+    "keywords": [
+      "strapi",
+      "plugin",
+      "stripe",
+      "dashboard",
+      "payments"
+    ],
+    "license": "MIT",
+    "private": false
+  }
+  

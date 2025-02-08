@@ -1,0 +1,4 @@
+{
+  "plugin.name": "Stripe Dashboard",
+  "plugin.description": "View Stripe payment statistics"
+}
