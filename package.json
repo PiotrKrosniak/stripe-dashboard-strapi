@@ -23,18 +23,16 @@
       "styled-components": "^6.1.15"
     },
     "author": {
-      "name": "PiotrKrosniak",
-      "email": "p.krosniak@gmail.com"
+      "name": "PiotrKrosniak"
     },
     "maintainers": [
       {
-        "name": "PiotrKrosniak",
-        "email": "p.krosniak@gmail.com"
+        "name": "PiotrKrosniak"
       }
     ],
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/yourusername/strapi-plugin-stripe-dashboard.git"
+      "url": "git+https://github.com/ailms/strapi-plugin-stripe-dashboard.git"
     },
     "keywords": [
       "strapi",
